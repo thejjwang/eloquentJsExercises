@@ -1,0 +1,7 @@
+// minimum 
+
+
+// recusion
+
+
+// bean counting
